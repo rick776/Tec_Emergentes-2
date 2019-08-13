@@ -1,2 +1,1 @@
-# Tec_Emergentes-2
-Practica_01_sistemas_empresariales
+
